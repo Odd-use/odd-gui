@@ -110,7 +110,7 @@ Symbols/
                       └── 2
 ```
 
-![Sketch-example](docs/symbols.jpg)
+![Sketch-example](img/symbols.jpg)
 
 ### Shared styles
 For further and more detailed information about the structure of the shared styles, please look at the attached picture below.
